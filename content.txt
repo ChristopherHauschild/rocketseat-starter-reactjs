@@ -1,0 +1,12 @@
+- ReactJS
+
+  -> biblioteca JS para construção de interfaces
+  -> atua no frontend da aplicação manipulando a DOM
+  -> utilizada para criação de SPA's
+
+- create-react-app
+
+  -> transpilação do código já inclusa
+  -> live-reload já incluso
+
+* serviceWorker > caso haja necessidade de trabalhar com a parte de PWA
